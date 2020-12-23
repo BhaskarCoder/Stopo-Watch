@@ -19,7 +19,7 @@ body{
   margin-left: auto;
   background-color:#AD48D1;
   border-radius:10px;
-  
+  transform: scale(2,2);
 }
 #screen{
   margin:8px;
