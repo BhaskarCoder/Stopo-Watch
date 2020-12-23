@@ -8,7 +8,7 @@ body{
    justify-content: center;
    align-items: center;
    background-image:linear-gradient(#71676F,#282B49);
-   /*background-repeat: no-repeat;*/
+   
 }
 .container{
   width: 310px;
@@ -19,7 +19,7 @@ body{
   margin-left: auto;
   background-color:#AD48D1;
   border-radius:10px;
-  transform: scale(2,2);
+  /*transform: scale(2,2);*/
 }
 #screen{
   margin:8px;
